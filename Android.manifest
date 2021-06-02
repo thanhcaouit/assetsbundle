@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3585107952
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: room_0
+      Dependencies: {}

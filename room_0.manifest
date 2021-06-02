@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3277522235
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0f1f859f958dbf777501d2e36c3bb6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c579e0953daf8ca7498a16aa52e71d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f19b7e2285c104f6ca47d583f3e5444f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7cef8327e854a466191ed768bd85b97d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a09dd97bd5e0448499612a0c6d0627c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07e6f85c91f7046ea8539de7d1bd3da5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1811006ed93c24c31894871e8076a217, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/RoomsDesigns/Assets/LocalDatas/Designs/Prefab_Room_0.prefab
+- Assets/RoomsDesigns/Assets/LocalDatas/Designs/RoomConfigs_0.asset
+Dependencies: []
