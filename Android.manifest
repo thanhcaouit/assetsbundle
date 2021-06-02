@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 3585107952
+CRC: 2382493409
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: room_0
+      Name: bundle_rooms_0
       Dependencies: {}
